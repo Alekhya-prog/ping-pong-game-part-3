@@ -1,0 +1,16 @@
+#h1tag h1{
+display :inline;
+}
+
+#h1tag {
+width : 100%;
+}
+
+#h1tag button {
+float :right;
+}
+
+canvas {
+border : 2px solid rgb(255, 125, 85);
+border-radius: 5px;
+}
